@@ -1,14 +1,14 @@
 🌟 Olá, mundo! É a Lari na área! 🌟
 
-💖 Sou **Larissa Leite**, uma geminiana ♊ (pronta pra próxima curiosidade aleatória) que ama a magia da tecnologia e se joga de cabeça no mundo da **Engenharia e Análise de Dados**. 👩‍💻✨
+💖 Sou **Larissa Leite**, uma geminiana ♊ (pronta pra próxima curiosidade aleatória) que ama a magia da tecnologia e apaixonada por **Engenharia e Análise de Dados**. 👩‍💻✨
 
-🎓 Enquanto decifro enigmas em bancos de dados, me dedico aos estudos de **Análise e Desenvolvimento de Sistemas** na **Unicarioca** e me aventuro pela **Matemática** na **UERJ**. 🧮📚
+🎓 Enquanto decifro bugs em querys e pipeline de dados, me dedico aos estudos de **Análise e Desenvolvimento de Sistemas** na **Unicarioca** e curso **Matemática** na **UERJ**. 🧮📚
 
-Ah, e por falar em mistérios... 🕵️‍♀️  Sou fascinada por **mitologia, sociologia e história**, áreas que exploro com paixão nas horas vagas. 🤓📚  Sabia que minhas tatuagens são  duas deusas egípcias? 😼 Tenho a poderosa **Sekhmet** e a graciosa **Bastet** para me guiar e inspirar. ✨
+Ah, e por falar em mistérios... 🕵️‍♀️  Sou fascinada por **mitologia, sociologia e história**, áreas que exploro com paixão nas horas vagas. 🤓📚  Tenho duas tatuagens de duas deusas egípcias 😼 Tenho a poderosa **Sekhmet** e a fofa **Bastet** para me guiar e inspirar. ✨
 
-🐱‍👤 E quando não estou mergulhada em códigos, cálculos ou livros de história, sou a mamãe de 7 gatinhos fofinhos que dominam meu coração (e meu teclado!): **Rafinha, Bruninho, Pedrinho, Sofia, Aninha, Maria e Ivy**. 😻 Prepare-se para uma explosão de fofura! 💖
+🐱‍👤 E quando não estou mergulhada em códigos, cálculos ou livros de história, sou a mamãe de 7 gatinhos fofinhos: **Rafinha, Bruninho, Pedrinho, Sofia, Aninha, Maria e Ivy**. 😻 Prepare-se para uma explosão de fofura! 💖
 
-🎮 Nos momentos de lazer, me rendo ao vício do **League of Legends** (me chama pra jogar! **Bipolari#BR1** 😜) e me energizo com o poder do **Heavy Metal** 🤘.
+🎮 Nos momentos de lazer, me rendo ao vício do **League of Legends** (me chama pra jogar! **Bipolari#BR1** 😜) e me energizo no **Heavy Metal**. Sou headbanger de carteirinha desde os 14 anos 🤘.
 
 🚀 **Minha jornada profissional:**
 
@@ -28,11 +28,11 @@ Trabalho com **projetos de grandes instituições financeiras e seguradoras**, d
 * **Python:** Minha paixão no mundo da análise de dados. 🐍💖
 * **SQL:** A linguagem universal dos bancos de dados. 🗣️
 
-**Em constante aprendizado:**
+**Em aprendizado:**
 
 * **Airflow:** Orquestrando meus fluxos de trabalho. 🎶
 * **GCP:** Desvendando os mistérios da nuvem do Google. ☁️
-* **Data Factory:** Criando pipelines de dados incríveis. 🏗️
+* **Data Factory e Dataflow:** Criando pipelines de dados incríveis. 🏗️
 
 **Outras ferramentas que uso:**
 
@@ -41,13 +41,15 @@ Trabalho com **projetos de grandes instituições financeiras e seguradoras**, d
 * **Power Apps:** Criando aplicativos sem código (quase!). 💪
 * **Power Automate:** Automatizando tudo que posso! 🤖
 * **Power BI:** Transformando dados em insights visuais incríveis. 📊
-* **Grafana:** Monitorando tudo de perto! 📈
+* **Grafana:** Monitorando tudo de perto e ao vivo! 📈
+* **Apache NiFi:** Transferindo arquivos e dados de um lugar para o outro! 🔄
 
 **Ops!** 🤭 Já dei um `DROP TABLE` sem querer... Quem nunca? 😅 Mas aprendi a lição. 💾
 
 **Certificações:**
 
 * **AZ-900:** Azure Fundamentals - A prova de que domino o básico da nuvem da Microsoft. ☁️✅
+* **DP-900** Data Fundamentals (No forno) - Vai provar o meu domínio básico em soluções de dados na Azure ☁️🔄
 
 💖 **Quer me conhecer melhor?** 💖
 
