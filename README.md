@@ -8,7 +8,7 @@ Ah, e por falar em mistérios... 🕵️‍♀️  Sou fascinada por **mitologia
 
 🐱‍👤 E quando não estou mergulhada em códigos, cálculos ou livros de história, sou a mamãe de 7 gatinhos fofinhos: **Rafinha, Bruninho, Pedrinho, Sofia, Aninha, Maria e Ivy**. 😻 Prepare-se para uma explosão de fofura! 💖
 
-🎮 Nos momentos de lazer, me rendo ao vício do **League of Legends** (me chama pra jogar! **Bipolari#BR1** 😜) e me energizo no **Heavy Metal**. Sou headbanger de carteirinha desde os 14 anos 🤘.
+🎮 Nos momentos de lazer, me rendo ao vício do **League of Legends**, principalmente Teamfight Tactics, (me chama pra jogar! **⁦Bastet⁩#⁦666⁩** 😜) e me energizo no **Heavy Metal**. Sou headbanger de carteirinha desde os 14 anos 🤘.
 
 🚀 **Minha jornada profissional:**
 
