@@ -1,4 +1,4 @@
-# Olá, eu sou a Larissa Athayde Leite! 👋
+# Olá, eu sou a Larissa Athayde Leite! 🦁
 
 **Data Engineer | 2x Azure Certified | Cloud | Data & Analytics | Python | Spark | SQL | Databricks | Cybersecurity Enthusiast**
 
