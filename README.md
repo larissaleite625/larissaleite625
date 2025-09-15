@@ -93,10 +93,7 @@ Projeto desenvolvido no bootcamp de cybersecurity DIO/Santander. Ferramenta educ
 
 ## 📊 Estatísticas do GitHub
 
-![Larissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissaleite&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaleite&layout=compact&theme=radical)
-
+![Larissa's GitHub Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaleite&theme=github_dark)
 ---
 
 ## 📞 Vamos conversar!
