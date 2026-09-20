@@ -57,7 +57,7 @@ Além da engenharia de dados, sou **curiosa por Cybersegurança**.
 - 🎲 **Microsoft Certified: Azure Data Fundamentals** — DP-900
 - 🔐 **Microsoft Certified: Security, Compliance & Identity** — SC-900 *(em andamento)*
 - 💡 **EY Badges** — AI Certified · Cloud & Analytics · Data Integration (Bronze)  
-  *Reconhecimento de uma das maiores consultorias do mundo, conquistado atuando em um projeto real de migração de dados de **SAS → Azure Databricks**.*
+  *Reconhecimento de uma das maiores consultorias do mundo, conquistado atuando em um projeto de migração de dados de **SAS → Azure Databricks (Ainda como Trainee)**.*
 
 ---
 
