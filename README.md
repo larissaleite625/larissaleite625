@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Larissa Leite! 🦁
 
-### 🧩 Data Engineer &nbsp;•&nbsp; ☁️ Cloud & Analytics &nbsp;•&nbsp; ⚡ Databricks
+### 🧩 Data Engineer &nbsp;•&nbsp; ☁️ Cloud & Analytics &nbsp;•&nbsp; 🎲 Databricks
 
 *Transformando dados brutos em decisões de negócio — com escala, governança e segurança.*
 
@@ -20,7 +20,7 @@ Sou **analista de sistemas** com foco em **engenharia de dados** e **cloud compu
 
 Meu terreno favorito é a construção de pipelines **ETL/ELT no Databricks**, com **Delta Lake** e **arquitetura medallion**. Também curto compartilhar conhecimento: já conduzi treinamentos de **SQL, Databricks, Cloud e programação**, porque acredito no desenvolvimento contínuo e na construção coletiva de soluções melhores.
 
-Além da engenharia de dados, sou **curiosa por Cybersegurança** — gosto de entender como as coisas funcionam (e como quebram) para pensar em soluções mais resilientes.
+Além da engenharia de dados, sou **curiosa por Cybersegurança**.
 
 🏠 **Base:** Rio de Janeiro 🏖️  
 🐈 **Personalidade:** movida a café, headbanger nas horas vagas e mãe de 6 gatos  
@@ -30,7 +30,7 @@ Além da engenharia de dados, sou **curiosa por Cybersegurança** — gosto de e
 
 ## 🌱 No que estou trabalhando agora
 
-- 💼 Engenheira de Dados na **Bradesco Seguros**
+- 💼 Engenheira de Dados na **Bradesco Seguros - BARE**
 - 🔐 Estudando para a **SC-900** (Security, Compliance & Identity), reforçando minha base em segurança e governança
 - 🤖 Explorando **IA Generativa** aplicada a dados: chatbots, enriquecimento e automações
 - 📚 Sempre aprendendo, sempre trocando conhecimento
@@ -53,19 +53,19 @@ Além da engenharia de dados, sou **curiosa por Cybersegurança** — gosto de e
 
 ## 🏆 Certificações
 
-- 🟦 **Microsoft Certified: Azure Fundamentals** — AZ-900
-- 🟦 **Microsoft Certified: Azure Data Fundamentals** — DP-900
+- ☁️ **Microsoft Certified: Azure Fundamentals** — AZ-900
+- 🎲 **Microsoft Certified: Azure Data Fundamentals** — DP-900
 - 🔐 **Microsoft Certified: Security, Compliance & Identity** — SC-900 *(em andamento)*
-- 🟨 **EY Badges** — AI Certified · Cloud & Analytics · Data Integration (Bronze)  
+- 💡 **EY Badges** — AI Certified · Cloud & Analytics · Data Integration (Bronze)  
   *Reconhecimento de uma das maiores consultorias do mundo, conquistado atuando em um projeto real de migração de dados de **SAS → Azure Databricks**.*
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏢 Bradesco Seguros — *Engenheira de Dados*
+### 🏠 Bradesco Seguros Auto\RE — *Engenheira de Dados*
 `mar/2026 - atual`  
-Engenharia e arquitetura de dados no setor de seguros, com foco em pipelines confiáveis, governança e geração de valor para o negócio.
+Engenharia e arquitetura de dados na BARE, Bradesco Auto\RE ❤️. 
 
 ### ⚡ Sys Manager — *Engenheira de Dados*
 `jun/2025 - fev/2026`  
@@ -106,7 +106,7 @@ Projetos desenvolvidos para compreender a fundo vetores de ataque — com fins *
 ## 🎓 Formação Acadêmica
 
 - 🎓 **Centro Universitário UniCarioca** — Bacharelado em Análise de Sistemas *(2023 - 2025)*
-- ➗ **UERJ** — Bacharelado em Matemática *(2023 - 2024)*
+- ➗ **UERJ** — Bacharelado em Matemática *(2023 - 2024)* 
 - 💻 **FAETERJ-Rio** — Tecnólogo em Análise de Sistemas de Computação *(2019 - 2020)*
 
 ---
