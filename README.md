@@ -4,7 +4,7 @@
 
 ### 🧩 Data Engineer &nbsp;•&nbsp; ☁️ Cloud & Analytics &nbsp;•&nbsp; 🎲 Databricks
 
-*Transformando dados brutos em decisões de negócio — com escala, governança e segurança.*
+*Transformando dados brutos*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-leite-399a20127)
 [![Email](https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissadeathayde3@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou **analista de sistemas** com foco em **engenharia de dados** e **cloud computing**, com mais de **4 anos de experiência** nos setores de **bancos, seguradoras e energia**. Atuo estruturando arquiteturas de dados de ponta a ponta — da ingestão ao BI — sempre pensando em **escalabilidade, governança, performance e geração de valor** para o negócio.
+Sou **analista de sistemas** com foco em **engenharia de dados** e **cloud computing**, com mais de **5 anos de experiência** nos setores de **bancos, seguradoras e energia**. Atuo estruturando arquiteturas de dados de ponta a ponta — da ingestão ao BI — sempre pensando em **escalabilidade, governança, performance e geração de valor** para o negócio.
 
 Meu terreno favorito é a construção de pipelines **ETL/ELT no Databricks**, com **Delta Lake** e **arquitetura medallion**. Também curto compartilhar conhecimento: já conduzi treinamentos de **SQL, Databricks, Cloud e programação**, porque acredito no desenvolvimento contínuo e na construção coletiva de soluções melhores.
 
@@ -31,7 +31,6 @@ Além da engenharia de dados, sou **curiosa por Cybersegurança**.
 ## 🌱 No que estou trabalhando agora
 
 - 💼 Engenheira de Dados na **Bradesco Seguros - BARE**
-- 🔐 Estudando para a **SC-900** (Security, Compliance & Identity), reforçando minha base em segurança e governança
 - 🤖 Explorando **IA Generativa** aplicada a dados: chatbots, enriquecimento e automações
 - 📚 Sempre aprendendo, sempre trocando conhecimento
 
